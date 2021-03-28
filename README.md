@@ -26,8 +26,20 @@ $ docker run ${PWD}:/app -dp [PORT]:3000 --name [CONTAINER_NAME] [IMAGE_NAME]
 ```sh
 $ docker start [CONTAINER_NAME]
 ```
-or
+##### or
 
 ```sh
 $ docker stop [CONTAINER_NAME]
+```
+
+#### 4. Execute a command in a running docker container
+
+```sh
+$ docker exec -it [CONTAINER_NAME] [COMMAND]
+```
+
+##### Example:
+
+```sh
+$ docker exec -it [CONTAINER_NAME] bash
 ```
