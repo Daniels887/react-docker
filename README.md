@@ -4,7 +4,7 @@
   &nbsp
   <img src="https://user-images.githubusercontent.com/58083563/89603440-87bbea00-d83f-11ea-88f1-40ded3561784.png" alt="Typescript" width="150" />
 </h3>
-<h3 align="center">Boilerplate - React + Typescript + Webpack</h3>
+<h3 align="center">React + Docker</h3>
 <br>
 
 ## :wrench: Using docker
