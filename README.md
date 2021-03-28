@@ -21,7 +21,7 @@ $ docker image build -t [IMAGE_NAME] .
 $ docker run ${PWD}:/app -dp [PORT]:3000 --name [CONTAINER_NAME] [IMAGE_NAME]
 ```
 
-### 3. Start or stop docker container
+#### 3. Start or stop docker container
 
 ```sh
 $ docker start [CONTAINER_NAME]
